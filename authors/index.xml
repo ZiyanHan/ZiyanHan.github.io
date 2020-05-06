@@ -5,7 +5,7 @@
     <link>https://ZiyanHan.github.io/authors/</link>
       <atom:link href="https://ZiyanHan.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZiyanHan.github.io/img/profile.jpg</url>
       <title>Authors</title>
@@ -13,28 +13,28 @@
     </image>
     
     <item>
-      <title>admin</title>
-      <link>https://ZiyanHan.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://ZiyanHan.github.io/authors/admin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robert Ford</title>
-      <link>https://ZiyanHan.github.io/authors/robert-ford/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://ZiyanHan.github.io/authors/robert-ford/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://ZiyanHan.github.io/authors/ziyan-han/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://ZiyanHan.github.io/authors/ziyan-han/</guid>
       <description>&lt;p&gt;I am now pursuing my PhD degree in Beihang University, supervised by &lt;a href=&#34;http://homepages.inf.ed.ac.uk/wenfei/&#34;&gt;Prof. Wenfei Fan&lt;/a&gt; and &lt;a href=&#34;http://act.buaa.edu.cn/dengt/&#34;&gt;Prof. Ting Deng&lt;/a&gt;. Prior to joining Beihang University in 2018, I completed my BSc in Computer Science at Xidian University. My research interests are focused on large-scale graph computing and their applications.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Lei Hou</title>
+      <link>https://ZiyanHan.github.io/authors/lei-hou/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ZiyanHan.github.io/authors/lei-hou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ting Deng</title>
+      <link>https://ZiyanHan.github.io/authors/ting-deng/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ZiyanHan.github.io/authors/ting-deng/</guid>
+      <description></description>
     </item>
     
   </channel>
